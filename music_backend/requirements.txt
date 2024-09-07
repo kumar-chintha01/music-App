@@ -1,0 +1,13 @@
+Django
+textblob
+rest_framework
+tensorflow
+scikit-learn
+django-environ
+opencv-python
+numpy
+requests
+Pillow
+django-cors-headers
+psycopg2
+djangorestframework
