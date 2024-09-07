@@ -160,4 +160,4 @@ Download PostgreSQL 16 from the [EnterpriseDB website](https://www.enterprisedb.
 
 ## Contributing
 
-Feel free to contribute to the project. If you have any queries or suggestions, email me at [anshivevasist@gmail.com](mailto:anshivevasist@gmail.com).
+Feel free to contribute to the project. If you have any queries or suggestions, email me at [kumar.chintha.com](mailto:kumar.chintha@com).
